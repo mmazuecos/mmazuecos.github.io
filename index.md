@@ -1,11 +1,11 @@
 # Mauricio Mazuecos
 
-Computer Scientist. PhD student in Computer Science at FAMAF-UNC. Responsible use of AI is a must. Currently working on referential visual dialog.
+Computer Scientist. PhD student in Computer Science at FAMAF-UNC. CONICET. Responsible use of AI is a must. Currently working on referential visual dialog. Member of the LIIS group at FAMAF-UNC.
+
 
 Find me on:
-[Twitter](https://twitter.com/maury_green)
-[Medium](https://maurygreen.medium.com/)
-[LinkedIn](https://www.linkedin.com/in/mauricio-mazuecos-56b699133/)
+
+[Twitter](https://twitter.com/maury_green) [Medium](https://maurygreen.medium.com/) [LinkedIn](https://www.linkedin.com/in/mauricio-mazuecos-56b699133/)
 ___
 
 ## Publications:
