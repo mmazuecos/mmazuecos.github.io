@@ -4,9 +4,10 @@ Computer Scientist. PhD student in Computer Science at FAMAF-UNC. CONICET. Respo
 
 
 Find me on:
+   - [Twitter](https://twitter.com/maury_green)
+   - [Medium](https://maurygreen.medium.com/)
+   - [LinkedIn](https://www.linkedin.com/in/mauricio-mazuecos-56b699133/)
 
-[Twitter](https://twitter.com/maury_green) [Medium](https://maurygreen.medium.com/) [LinkedIn](https://www.linkedin.com/in/mauricio-mazuecos-56b699133/)
-___
 
 ## Publications:
   
