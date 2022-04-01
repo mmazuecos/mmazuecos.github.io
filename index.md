@@ -7,7 +7,9 @@ Find me on:
    - [Twitter](https://twitter.com/maury_green)
    - [Medium](https://maurygreen.medium.com/)
    - [LinkedIn](https://www.linkedin.com/in/mauricio-mazuecos-56b699133/)
-   - [GitHub](https://github.com/mmazuecos)
+   - [Semantic Scholar](https://www.semanticscholar.org/author/1805994601)
+   - [Google Scholar](https://scholar.google.com/citations?user=mViyIz4AAAAJ&hl=es&oi=ao)
+   - [ACL Anthology](https://aclanthology.org/people/m/mauricio-mazuecos/)
 
 
 ## Publications:
